@@ -1,7 +1,9 @@
 Apriltag Gazebo Model Generator
 ===============================
 
-This is an extension to [gazebo_models](https://github.com/mikaelarguedas/gazebo_models) to create models for April Tags.
+This is an extension to `gazebo_models <https://github.com/mikaelarguedas/gazebo_models>`_ to create models for April Tags.
+
+
 
 
 ---
